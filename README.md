@@ -17,6 +17,7 @@
 - Chapter (2) Comparing and Ordering
   - Comparing up to 9
   - Next And Previous between the numbers up to 9
+  - Ordering up to 9
   
 
   
