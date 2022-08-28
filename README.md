@@ -1,4 +1,4 @@
-# math-education-in-iraq-school
+# Math Curriculum In Iraq Schools
 
 ## Grade (1) 
 
@@ -25,6 +25,10 @@
   - Ordering up to 20
   
 - Chapter (3) Addition and Subtraction
+  - Visualisation of Addition (Addition Stories)
+  - Addition The Number 0 And Adding The Number With HimSelf
+  - 
+  
   
   
   
